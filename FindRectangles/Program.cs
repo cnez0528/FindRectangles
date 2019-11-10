@@ -37,7 +37,7 @@ namespace FindRectangles
                     hashDots.Add(dot);
                 }
             }
-            var rectNumbers = 0
+            var rectNumbers = 0;
 
             var numberOfDots = dots.Count;
             for (int i = 0; i < numberOfDots; i++)
